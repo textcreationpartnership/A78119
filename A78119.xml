@@ -1,0 +1,392 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and vindication of the carriage of Edward Barber, at the parish meeting house of Benetfinck London Fryday the 14. of July 1648. after the morning exercise of Mr Callamy was ended, wherein the pride of the ministers, and Babylonish or confused carriage of the hearers is laid down. As also the false aspersions cast npon [sic] him, he doing nothing but what was according to the primitive institution, and is &amp; ought to be in the best reformed churches according to the protestation and covenant. By E.B. freeman of England, and citizen and marchant-Taylor of London.</title>
+            <author>Barber, Edward, d. 1674?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78119</idno>
+            <idno type="STC">Wing B693</idno>
+            <idno type="STC">Thomason E458_8</idno>
+            <idno type="STC">ESTC R205029</idno>
+            <idno type="EEBO-CITATION">99864473</idno>
+            <idno type="PROQUEST">99864473</idno>
+            <idno type="VID">162091</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78119)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162091)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E458[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and vindication of the carriage of Edward Barber, at the parish meeting house of Benetfinck London Fryday the 14. of July 1648. after the morning exercise of Mr Callamy was ended, wherein the pride of the ministers, and Babylonish or confused carriage of the hearers is laid down. As also the false aspersions cast npon [sic] him, he doing nothing but what was according to the primitive institution, and is &amp; ought to be in the best reformed churches according to the protestation and covenant. By E.B. freeman of England, and citizen and marchant-Taylor of London.</title>
+                  <author>Barber, Edward, d. 1674?</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug: 12 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>E.B. = Edward Barber.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162091:1" rendition="simple:additions"/>
+            <p> 
+               <hi>A DECLARATION AND Vindication of the carriage of</hi> Edward Barber, <hi>at the pariſh meeting houſe of</hi> Bene<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>finck London <hi>Fryday the</hi> 14. <hi>of</hi> Iuly 1648. <hi>after the morning exerciſe of Mr</hi> Callamy <hi>was ended, wherein the pride of the Miniſters, and Babyloniſh or confuſed carriage of the hearers is laid down. As alſo the falſe aſperſions caſt upon him, he doing nothing but what was accor<g ref="char:EOLhyphen"/>ding to the primitive inſtitution, and is &amp; ought to be in the beſt reformed Churches according to the Proteſtation and Covenant.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Hoſea.</hi> 8. 12.</bibl>
+               <p>I have written unto them, the great things of my law, but they were counted as a ſtrang thing.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Hoſea</hi> 9. 7.</bibl>
+               <p>The dayes of viſitation are come, the dayes of recompence are come, <hi>Iſrael</hi> ſhall know it; the Prophet is a foole, the ſpiritaall man is mad.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Iſa.</hi> 9. 13.</bibl>
+               <p>For the people turneth not unto him that ſmiteth them, neither do they ſeek the Lord of Hoaſts. &amp;c.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Ionah</hi> 2. 8.</bibl>
+               <p>They that obſerve lying vanities, forſake their own mercies.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Iſa.</hi> 44 25.</bibl>
+               <p>I am the Lord that fruſtrateth the tokens of the lyars, and maketh diviners mad, that turneth wiſe men backward, and maketh their knowledge fooliſhneſſe:</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Zech.</hi> 13. 4.</bibl>
+               <p>And it ſhall come to paſſe in that day, that the Prophets ſhall be aſhamed every one of his viſion, when he hath propheſied: nei<g ref="char:EOLhyphen"/>ther ſhall they weare a rough garment to deceive, &amp;c.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Mich.</hi> 3. 5. <hi>with</hi> 11.</bibl>
+               <p>Thus ſaith the Lord concerning the prophets that make my people erre, that bite with their teeth and cry peace: and he that puteth not into their mouths, they even prepare war againſt them.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Ioh.</hi> 3. 19. 20. 21.</bibl>
+               <p>And this is the condemnation, that light is come into the world, and men loved darkneſſe rather then light: becauſe their deeds were evill. For every one that doeth evill, hateth the light, nei<g ref="char:EOLhyphen"/>ther commeth to the light leaſt his deeds ſhould be diſcovered; But he that doth truth, commeth to the light, that his deeds may be made manifest, that they are wrought in God. <hi>Ioh.</hi> 16. 2. 3. They ſhall put you out of their Sinagogues: yea, the time commeth, that who<g ref="char:EOLhyphen"/>ſoever killeth you will think he doth God ſervice. And theſe things wil they d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> unto you becauſe they have not known the Father, nor me.</p>
+            </q>
+            <p>
+               <hi>By</hi> E. B. <hi>freeman of</hi> England, <hi>and Citizen and Marchant-Taylor of</hi> London.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162091:2"/>
+            <p> BEing earneſtly deſired by diverſe of the Inhabitants of the pariſh to come to heare Mr. <hi>Callamy</hi> at the Morning lecture, they promi<g ref="char:EOLhyphen"/>ſing that I ſhould have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erty to add to what he ſhould deliver, or con<g ref="char:EOLhyphen"/>tradict if erroni<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us, he being to be there upon the 14 of <hi>July.</hi> At which time, according to their deſire and my duty I came, and having heard him all his Sermon without interruption, wherein <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is cheif diſcourſe was concerning <hi>Moſes</hi> rodd, which being done, I deſired him and the r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt of the audience, to permit me to add ſome few words to what he had delivered, conceiving he had not ſo much as toucht upon the very quintecence of the text, which did moſt neerly concern the people, to wit, The Lord Jeſus the great Enſigne of the Gentils; <hi>Iſa.</hi> 11. 10. upon which he deſired me to forbear till he had concluded, &amp; I might ſpeak, upon which I did forbeare till he had done and pronounced his bles<g ref="char:EOLhyphen"/>ſing: and then deſired that as he had prayed that the Goſpell might be ſent forth in the right order, that I mieht have liberty to ſpeak accord<g ref="char:EOLhyphen"/>ing to St. <hi>Pauls</hi> exortation, 1 <hi>Cor.</hi> 14. 29. 30. <hi>Let the Prophets ſpeak two or three, and let the other judge. If any thing be revealed to another that ſiteth by, let the fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt hold gi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> peace. For ye may all prophecy one by one, that all may learne and all may be comforted. &amp;c.</hi> Which freedom was practi<g ref="char:EOLhyphen"/>ſed in the Sinagogues as <hi>Acts</hi> 13. 15. where <hi>After the reading the Law and the Prophets, the R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lers of the Si<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>agogues</hi> were ſo far from denying this priviledge that they <hi>ſent unto</hi> Paul <hi>and</hi> Barnabas <hi>ſaying, ye men and brethren if ye have any word of exortation for the people ſay on.</hi> not coun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing their ſpeaking, to be making a diſturbance as Mr. <hi>Callamy</hi> did, who con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rary to his promiſe, when according to his deſire I had forborn till he had done, inſtead the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of giving me leave ſaid he wond<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed that any that pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fect the Goſpell would come to make a diſturbance in the Church of God, dealing with me as formerly he had done with Mr. <hi>K<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffin,</hi> Mr. <hi>Knoles</hi> and Mr. <hi>Cox</hi> concerning the publike diſpute that ſhould have been at <hi>Aldmanbury</hi> meeting houſe, or at leaſt diſcovering his malice or ignorance of the Goſpell practiſe, as <hi>Acts</hi> 15. 13. where it is written, after that <hi>Paul</hi> and <hi>Barnabas</hi> had ſpoken and held their peace <hi>Iames</hi> anſwered ſaying, <hi>&amp;c.</hi> compared with <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</hi> 1. 4. 10. Upon which his deniall of this Goſpel priviledge, I told him and the reſt of the audience, that as I had bin a long dweller in the pariſh, where I had bin a diligent obſerver of the traditions of their fathers, thoſe popiſh practiſes of paying tiths, and infants ſprinkling &amp;c, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being now bet<g ref="char:EOLhyphen"/>ter enlightened, and alſo by authority of Parl. injoyned in that place with the reſt of the pariſh to take the proteſtation a thing injoyned up on the whole Kingdom, wherein I was injoyned to proteſt againſt all popery, and popiſh innovation: &amp; this tying of the ſpirit of God only is the mouths of the Black co<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es, b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing one of the greareſt innovations that
+<pb facs="tcp:162091:2"/> ever was invented, as to raiſe, ſo to uphold the Kingdom of Antichriſt: and ſo long as it is upheld, it ſhall never be raced, nor the libe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty of the Goſpell obtained, which we are all injoyned to en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the overthrow thereof; and therefore deſired the audience to conſi<g ref="char:EOLhyphen"/>der theſe Scriptures as I ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld nominate, as <hi>Acts</hi> 2 4. <hi>And they w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re all filled with the Holyghoaſt and began to ſpeak with other tongues as the Spirit gave them utteranes.</hi> comp. <hi>Numb.</hi> 11. 26. with 29. <hi>Ioel</hi> 2. 28. Upon which the Aſſembly was filled with confuſion, like the whole City of <hi>Epheſus,</hi> Acts 19. 29. and 22. 22. Where <hi>Pau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> declaring the liberty of the Goſpel, which was by him to be preached to the <hi>Gentl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, The Iews giving him audience unto that word, and they lift up th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir voices and ſaid, away with ſuch a fellow from the earth, for it is not fit that he ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld live, crying out, caſting off their cloaths, and throwing duſt in the Ayre. &amp;c.</hi>
+            </p>
+            <p>So theſe being in this confuſion, ſome crying one thing ſome another, ſome crying lay hold on him, ſome throw him down, others kill him, others pull him limbe from limbe, ſom kiking him, others pulling off his coate, another his hat, ſome ſaying he is mad, others he is drunke, women ſcraching me by the face, where I might have been both rob<g ref="char:EOLhyphen"/>bed and murthered, had there not been a Conſtab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e there, who Centu<g ref="char:EOLhyphen"/>rian like reſcued me, there being Mr, <hi>Calamy</hi> Mr. <hi>Clanford,</hi> Mr. <hi>Clarke</hi> and ſome eight more of them, and not one endeavouring in the leaſt to ſtop the rou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; but 3 or 4<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0 following me in this tumultuous manner to my own houſe much abuſing me, thronging about the doore as they of <hi>Sodom</hi> did to <hi>Lots,</hi> Gen. 19. 9. Mr. <hi>Callamy</hi> and the reſt never ſhew<g ref="char:EOLhyphen"/>ing ſo much ayde or humanity as <hi>Gamaliel</hi> Acts 5. 34. 35. or the Cap<g ref="char:EOLhyphen"/>tain of the band that reſcued <hi>Paul</hi> from the rude multitude, <hi>Acts</hi> 21. 30 31 &amp;c. they ſhewing more wiſdom and morality then any of theſe did though at leſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o in number; but I confeſſe your condition being like <hi>Demetrius</hi> and the reſt that made ſilver ſhrines for <hi>Diana,</hi> at this time ingreat danger, I canno<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> blame ye to looke about you; for if the liberty of the Goſpell be obtained, your Kingdom will fall like Dagon before the Arke to the ground.</p>
+            <p>Whereupon, you not giving the leaſt liberty of the Goſpel of Chriſt, I could not but proteſt againſt that Antichriſtian practiſe, and told them that as they and their tribe had bin the ſtirers up of the people of the Kingdom to theſe unnaturall and bloudy wars, yet pretend, they are the Miniſters of Chriſt, and all the members of their Church Chriſtians, though they thus kill one another, their practiſe being like <hi>Ahabs</hi> Pro<g ref="char:EOLhyphen"/>phets, 1 <hi>King.</hi> 22. 22. <hi>And thoſe uncleane Spirits like Fr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ggs.</hi> as <hi>Revelation.</hi> 16. 13, being confident, that theſe wars will never be ended, nor a wel grounded Peace ſetled, till they, as well as their Fa<g ref="char:EOLhyphen"/>thers be diſcovered, and the Kingdome of <hi>Antichriſt,</hi> Root and Branch deſtroyed: As <hi>Mat.</hi> 15. 13. they being Plants nev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r planted by Chriſts <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:162091:3"/>
+            <p> Now I beſeech all rationall men to conſider, whether <hi>Paul</hi> made the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>proar, <hi>Act.</hi> 19 or <hi>Demetrius</hi> and his ſilver ſhrine-makers, and the rude multitude, <hi>Act.</hi> 20. 1. and 21. 38. and ſo for the Aſſembly. And inaſmuch as Mr. <hi>Calamy,</hi> Mr. <hi>Cranford,</hi> Mr. <hi>Cawton,</hi> Mr. <hi>Cace,</hi> Dr. <hi>Burges</hi> Mr. <hi>Love<g ref="char:punc">▪</g>
+               </hi> &amp;c. have often ſince the Parliament, before them, and others, much envied and Railed againſt Sectaries, Schiſmaticks, Anabaptiſts, and never by the wordſhewing who they are, much leſſe confuting them, but in groſſe as their Fathers againſt the Calneniſts, Lutherens, Zwinli<g ref="char:EOLhyphen"/>ant, Proteſtants, and Presbyterians, &amp;c. Although they I believe practi<g ref="char:EOLhyphen"/>ſed according to their light in thoſe dark times; &amp; we according to the inſtitutions of Chriſt<g ref="char:punc">▪</g> and premitive practice, but they paſſe all over in groſſe, never opening the tearmes, much leſſe confuting of it by the word, looking upon it as a great ſinne, that any ſhould queſtion what they deliver, though never ſo falſe, but take all they deli<g ref="char:EOLhyphen"/>ver as an oracle, by which their doings, they ſowe the very ſeed of divi<g ref="char:EOLhyphen"/>ſion, hatred, perſecution, &amp; blood ſhed, as much as in them lyes contrarie to the Doctrine &amp; practice of all the Miniſters of the Goſpel of Chriſt.</p>
+            <p>But how<g ref="char:punc">▪</g> God hath anſwered their plottings and underminings, with Judgments I would the State and all men would take notice of, as when you have gotten Ordinances Saul like, <hi>Acts</hi> 9. 1. for the pun<g ref="char:EOLhyphen"/>iſhing by impriſoning of people for Conſcience, thereby intrenching upon the prerogative royall of King Jeſus, then immediately God hath ſent ſome eminent trouble to the State and Kingdom, as hath been no<g ref="char:EOLhyphen"/>ted by divers, &amp;c.</p>
+            <p>And where as ſome old men and women in the Aſſembly, out of their ignorant zeal, would have had me gone home in private to Mr. <hi>Calamy</hi> to be ſatisfyed, let them know that I am ſatisfyed already, that they are all of them the Miniſters of Antichriſt, and ſeeke as to uphold his King<g ref="char:EOLhyphen"/>dom, ſo to keepe the people ſtill in ignorance, &amp; as it was ſaid of <hi>Iſrael,</hi> ſo it may be ſaid of them, <hi>Iſai.</hi> 9. 14 15, 16. <hi>Therefore the Lord will cut off from Iſrael, head and taile, branch and ruſh in one day. The ancient and honourable, he is the head: and the prophet that teacheth li<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, he <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the taile, For the leaders of this people cauſe them to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and they that are led of them are deſtroyed.</hi> And therefore as the Apoſtle exhorts, <hi>Tim.</hi> 1. 5. 20. that thoſe that ſin are to be rebuked before all, that others alſo may fear.</p>
+            <p>Now if this be not a ſin to cauſe men to ſweare with their hands lift up to the moſt high God, proteſting and covenanting againſt all Popery, and Popiſh Innovaſions, and without reſpect of perſons to endeavour the extirpation of Poperie and Prelacy, that is Church-Government, by Arch-Biſhops, Biſhops, their Chancellers and Commiſſaries, Deanes and Chapters, Arch decons, &amp; all other Eccleſiaſtical Officers depending up<g ref="char:EOLhyphen"/>on that hirarchy, &amp;c. now if not to perform this by ſuch as have ſworn,
+<pb facs="tcp:162091:3"/> it be not perjury I know not what is, and <hi>Eceleſ.</hi> 5. 4 5. <hi>Solomon ſaith, when thou voweſt a vow unto God, deferre not to pay it, for he hath no pleaſure in foo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, pay that which thou haſt vowed: Better is it that thou ſhouldeſt not vow, then that thou ſhouldeſt vow and not pay.</hi>
+            </p>
+            <p>Now whether Mr. <hi>Calamy,</hi> with the reſt of them that received their Or<g ref="char:EOLhyphen"/>dination from the Biſhops, who ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> [their] Ordination from Rome, &amp; for<g ref="char:EOLhyphen"/>merly prayed for them as their right, reverend, and reverend Fathers, wearing their Surplus, having Altars at their Comm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds, and cringing to them, &amp;c. be not depending on that hitarchy<g ref="char:punc">▪</g> I leave to every underſtan<g ref="char:EOLhyphen"/>ding experienced proteſtor and Covenanter to judge, ſeeing it is ſaid, <hi>Iobe</hi> 14. 4 <hi>who can bring a clean thing out of an unclean,</hi> not one, and Dr. <hi>Burges</hi> before the Committee confeſt that the Biſhops were as truly Antichriſtian, as Gods word was Gods word. Although 400l. <hi>per Annum</hi> of the ſame meaner, and the Dean of <hi>Paules</hi> his houſe in his account be not, but could ſwallow greater things then theſe.</p>
+            <p>I ſhall now declare what I would have then ſaid, had they given me li<g ref="char:EOLhyphen"/>berty, which he ſo much ſpoke of from <hi>Exod</hi> 17. 5. 11. And 1. we are to con<g ref="char:EOLhyphen"/>ſider what <hi>Moſes</hi> that Meſſenger of the Lord, that ruler and deliverer of the Iſralites, that tipe of Chriſt was, to wit, a poor mechanick Sheapheard, yet learned in all the wiſdom of the Egiptions, and refuſing to be called the Sonne of <hi>Pharoahs</hi> Daughter, chuſing rather to ſuffer affliction with the people of God, then to enjoy the pleaſure of ſinne for a ſeaſon, &amp;c. Paul-like <hi>Phil.</hi> 3. 7. 8. counting thoſe things that were gain to him loſſe for Chriſt.</p>
+            <p n="2">2. He being a Sheapheard, endeavored to get his own bread, laboring with his own hands, and not only with the brain<g ref="char:punc">▪</g> as ſome now pretends, getting into rich men and womens houſes, that ſo their feete being under their Tables, thereby to uphold themſelves in their Idleneſſe, contrary to the Apoſtles Doctrine and practice, <hi>Acts</hi> 20. 34. <hi>Theſ.</hi> 2. 3. 6. 7. 8. 3. This Rod of <hi>Moſes</hi> tipiſied, or held forth that B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nner or Enſigne of Gods love, Jeſus the Anointed, as <hi>Iſa.</hi> 32. 1. <hi>Behold a King ſhall raign in righteouſneſſe,</hi> with <hi>Acts</hi> 2. 36. <hi>Therefore let all the houſe of Iſrael know aſſuredly, that God hath made that ſame Jeſus whom ye have crucified both Lord and Chriſt,</hi> and not only King, but Prieſt and Prophet, and where Chriſt is not thus recei<g ref="char:EOLhyphen"/>ved in his offices but devided, he becomes no Chriſt to the devider. Now examine and ſee which of the miniſters of theſe times can ſay with <hi>Paul, Acts</hi> 20. 26. 27. <hi>I take you to record this day that I am clear from the [blood] of all men; for I have not ſhuned to declare unto you all the councell of God.</hi>
+            </p>
+            <p n="4">4 This Enſign as it was to be lifted up as was noted, to ſignifie Gods power, promiſes and experiences, ſo I ſhall adde that Chriſt is to be lifted up as an Enſign to the Gentles<g ref="char:punc">▪</g> in the adminiſtrations of the Goſpel, as <hi>Iſa</hi> 5. 26. &amp; 11. 10. <hi>And in that day there ſhall be a roote of Ieſſe, which ſhall ſtand for an Enſign of the people, to it ſhall the Gentiles ſeeke, and his reſt ſhall be glo<g ref="char:EOLhyphen"/>rious</hi>
+               <pb facs="tcp:162091:4"/> compare with <hi>Iſa.</hi> 49 6. &amp; <hi>Matt.</hi> 12. 21. <hi>Acts</hi> 13 47. 48. and <hi>Rom.</hi> 10. 15. This is cleerly laid forth unto us, <hi>Mark.</hi> 16. 15 16. the par<g ref="char:EOLhyphen"/>tition wall being broken downe that ſtood between Iews and Gentles. <hi>Goe ye into all the world and preach the Goſpel to every creature, he that be<g ref="char:EOLhyphen"/>leeveth and is dipt ſhall be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſaved, but he that beleeveth not ſhall be damned,</hi> compare with <hi>Mat.</hi> 28. 19. 20. &amp; <hi>Luk.</hi> 24. 47.</p>
+            <p>W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Commiſſion of Chriſt, is unviolably to be kept by beleivers, un<g ref="char:EOLhyphen"/>der the penalty of a curſe without alteration unto the end of the world, as <hi>Heb.</hi> 10. 28. 29, <hi>He that deſpiſed</hi> Moſes <hi>Law, died without mercy under two or three witneſſes. Of how much ſorer puniſhment, ſuppoſe ye, ſhall he be thought worthy, who hath troden under foot the Son of God &amp;c.</hi>
+            </p>
+            <p n="5">5. This Enſign Chriſt is to be lifted up in his natures as he was God, and as he was man: Alſo in his Offices as he was the Prieſt, Prophet, and King of his Church; the Prieſt by whoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> offeting he hath perfected for ever all th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m that are ſanct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fied. <hi>Heb.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 14. compare wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h verſe 10. the prophet whoſe voice only we ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to heare, <hi>Deut.</hi> 18. 15. <hi>Acts</hi> 3. 22. 23. <hi>For Moſes truely ſaid unto the fathers, a prophet ſhall the Lord your God raiſe up unto you of your, brethren like unto me; him ſhall you hear in all things whanſoever he ſhall ſay unto you. And it ſhall come to p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>very ſoule that will not hear that Pro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>het ſhall be deſtroyed from among the people.</hi> 3. The only King and Law-giver to his Church<g ref="char:punc">▪</g> as, <hi>Iſae</hi> 33. 22. <hi>For the Lord is our judge, the Lord is our Law giver, the Lord is our King, he will ſave us,</hi> compared with <hi>Pſa.</hi> 89. 27. 1 <hi>Tim.</hi> 6. 15. <hi>Rev.</hi> 17. 14. &amp; 19. 16. <hi>Iohn</hi> 12 32. 33. <hi>And I if I be lifted up from the earth will draw all men unto me.</hi>
+            </p>
+            <p n="6">6. Chriſt is to be lifted up in the adminiſtracion of the Goſpel, accor<g ref="char:EOLhyphen"/>ding to the beginnings of the foundation of the doctrines of Chriſt, in the conſtitutions and maintenance thereof; the Churches of Chriſt being to be ſo gathered after the apoſtacy, as planted in the primitive times, to wit, by repentance from dead works, faith towards God, the doctrin of dippings, &amp; impoſition of hands, as <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b.</hi> 6. 1. 2. it being according to the great Charter of the Goſpel of Chriſt and primitive practiſe, as <hi>Acts</hi> 2. 38. to 43. &amp; 8. 12. 36. 37, 38. &amp; 10. 46. 48. which practice would ſoone diſ<g ref="char:EOLhyphen"/>cover the falſnes or Na<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ionall holyneſſe, fetherall holyneſſe, Church privi<g ref="char:EOLhyphen"/>ledge to naturall infants, Pariſh Prieſts and Aſſemblies, taking Tithes and Alters, &amp;c. From whence you may obſerve the danger of all ſuch as ſhall adde to the word of God, or diminiſheth there from, as <hi>Mat.</hi> 5 19. comp. with <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 22. 18. 19 7. Chriſt being thus lifted up it will diſcover thoſe that pretend themſelves miniſters of Chriſt, and are not; <hi>Re.</hi> 2. 2. Nor yet con<g ref="char:EOLhyphen"/>tent with his wages, that he hath left them, and in his own way, and not to trouble the Civill Majeſtrates nor the people, by the violent taking away there goods from them, and troubling them with unjuſt ſuites, contrary to the rule &amp; their Proteſtation &amp; Covenant, whereby if you will not be per<g ref="char:EOLhyphen"/>jured,
+<pb facs="tcp:162091:4"/> you can neither take tithes nor they pay them. &amp;c Conſider <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> ſons thoſe ſons of <hi>Belial Sam.</hi> 1. 2. 13. That came with their fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh<g ref="char:punc">▪</g>hooke with three teeth which they ſtrook into the pan or kettle, &amp; all that which the hooke took up, the Prieſt took for himſel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by force; but <hi>ver.</hi> the 36 their condition is declared when they ſhall come and crouch for a peice of ſilver &amp; a morſell of bread, ſaying put me I pray t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> into the Prieſts Office that I may eate a peice of bread. 8. This diſcovers the folly of thoſe as hav<g ref="char:EOLhyphen"/>ing drunk of the wine of <hi>Babels</hi> golden cup, whereby they ſtil ſeek to up<g ref="char:EOLhyphen"/>hold their popiſh traditions, though to the overthrowing of the glorious inſtitutions of Chriſt and the drawing down the wrath of God upon the nations, yet pretend themſelves miniſters of Chriſt, yet ſeeking by violence and compulſion to ſet up the Goſpel, a thing contrary to the very nature thereof, and Chriſt and his diſciples practice. But let them know they are not the men that God will give his people deliverance by, neither is that the way which they take, they having received as their power and autho<g ref="char:EOLhyphen"/>rity ſo their practice from the beaſt, <hi>Re.</hi> 13. 16. &amp; therefore muſt be rooted up, as <hi>Mat.</hi> 15. 13. &amp; <hi>Ier.</hi> 51. 25. 26. <hi>Behold I am againſt the O deſtroying moun<g ref="char:EOLhyphen"/>tain, &amp;c.</hi> 9. Let this informe the people of God not to ſtay in Babel in that ſtate, it being not their reſting place as <hi>Mich.</hi> 2. 10. 11. <hi>Ariſe ye and depart, for this ie not your rect, becauſe it is polluted, &amp;c,</hi> Mar. 8. 37. 38. &amp; 2 Cor. 6, 14. to 18. where the Apoſtle ſhewing the diſagreement betwixt light and darknes, beleivers with unbeleivers, righteouſnes with unrighteouſnes, he that beleiveth with an Infidell, the Temple of God with Idols beleivers being the Temple of God in whom he will dwell and walke, being their God and they being his people; Wherefore he ſaith, <hi>Come out from among them ſaith the Lord and be ye ſeparate &amp;c.</hi> And in this reformation to have a word for their warrant, and not to make reformed Churches their pat<g ref="char:EOLhyphen"/>tern, as <hi>Germany Scotland</hi> &amp;c. But rather the Primitive Inſtitutions, as <hi>Ezra</hi> and <hi>Nehemiah</hi> did in their Reformation, and as the Apoſtle exorts, <hi>Col.</hi> 2. 8, <hi>Beware leſt any man ſpoyle you through Phyloſophy and vaine deceit, &amp;c.</hi> for as Chriſt ſaith, <hi>Mar.</hi> 8. 36. 37. <hi>For what ſhall it profit a man if h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhall gaine the whole world and looſe his own ſoule, &amp;c.</hi> &amp; <hi>Iohn</hi> 1. 3. 2. the Apo<g ref="char:EOLhyphen"/>ſtle ſaith, Beloved now are we the Sonnes of God, and it doth not yet appear what we ſhall be, but we know that when he ſhall appear, we ſhall be like him, for we ſhall ſee him as he is. 2 <hi>Tim.</hi> 2. 11. 12. <hi>It is a faithfull ſaying, for if we be dead with him, we ſhall alſo live with him, if we ſuffer, we ſhall alſo rayne with him if we deny him, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e alſo will deny us.</hi> 1 <hi>Cor.</hi> 2. 9. <hi>But as it is written, Eye hath not ſeen, nor ear heard, neither have entred into the heart of man, the things which God hath prepared for them that love him. Rev.</hi> 7. 14. 17. <hi>Theſe are they which come out of great tribulation, and have waſhed their Rebes, and made them white with the blood of the Lamb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: therefore they are before the Thrown of God, and ſerve him day and night in his Temple,</hi>
+               <pb facs="tcp:162091:5"/> 
+               <hi>and he that ſitteth on the Throne ſhall dwell among them, they ſhall hunger no more, nor thirſt any more, neither ſhall the Sun light upon them, nor any heat for the Lamb which is in the midſt of the Throne ſhall feede them, and ſhall lead them unto living Fountains of waters, &amp; God ſhall wipe away all teares from their eyes.</hi>
+            </p>
+            <p>
+               <hi>Reaſons</hi> 1. VVe may take notice that God will be found in his own way, and by his own means his wayes &amp; thoughts being h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gher then mens, <hi>Iſa</hi> 55. 8. 9. compared with <hi>Luke</hi> 16 31. where <hi>Abraham</hi> tells <hi>Dives</hi> that <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his bretheren would not hear <hi>Moſes</hi> and the Prophets, neither will they be perſwaded though one roſe from the dead. 2. It matters not how weake the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ument is, that God vvorks by the vvork being his, as <hi>Iudges</hi> 7. 16. 17. 18. Alſo <hi>Amos</hi> a head man, <hi>Ioſua Moſes</hi> his ſervant, <hi>Nehemia</hi> a Courtier the Kings Butler, <hi>David</hi> a Sheapheard, <hi>Peter Andrevv Iames and Iohn</hi> Fiſhermen. <hi>Paul</hi> 2 Tentmaker, <hi>Acts</hi> 18. 3. yea Chriſt himſelfe a <hi>Carpenter, Mark</hi> 6. 3<g ref="char:punc">▪</g> 3 This ſhould teach all the Servants of Chriſt not to undervalevv the gift of God in any, nor <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ye up the Tongues of thoſe vvhoſe mouth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the Lord ſhall open by his ſpirit, but to give liberty and freedom to them, as <hi>Acts</hi> 2. 4. vvhere they vvere all filled vvith the Holy Ghoſt, and ſpake as the ſpirit gave them utterance, and <hi>Acts</hi> 15. 7. 13. compared vvith 1 <hi>Cor.</hi> 14. 29. to 33. 1 <hi>Pet.</hi> 4. 10. when Chriſt aſſended upon high, he led Captivity Captive, and gave gifts unto men for the gathering ed<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fying and perfecting of the Saints, (not Arts and Sciences) le<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ned at the Univerſities. 5. God is now about his great marvelous work, and a wond<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in overthrow<g ref="char:EOLhyphen"/>ing the State of Antichriſt, root and branch, <hi>Iſa.</hi> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 9. to 15. ſaying, ſtay your ſelves and wonder, cryye out, and cry they are drunck, but not with wine, they ſtagger, but not with ſtrong drink, for the Lord hath powred out upon you the ſpirit of deepe ſleepe, and hath cloſed your eyes, the Prophets, and Rulers, the Seers hath he covered, and the viſion of all is become unto you as the words of a book that is ſealed, which men deliver to one that is learned, ſaying, read this I pray thee, and he ſaith, I cannot for i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>led, and the book is delivered to one that is no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> learned, ſaying, read this I pray thee, and he ſaith, I am not learn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, wherefore the Lord ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id; forasmuch as this people draw near me with their mouth, &amp; with their l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ps do h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nor me, but have removed their hearts far from me, and their fear towards me is taught by the precepts of men, therefore behold I will pro<g ref="char:EOLhyphen"/>ceed to do a marvelous work amongſt this people, even a marvelous work and a wonder for the wiſdom of their wiſe men ſhall periſh, and the underſtanding of the prudent men ſhall be hid, wo unto them that ſeeke deepe to hide their Councel from the Lord, and their works are in the dark, and they ſay who ſeeth us and who knoweth us, ſurely your turning things upſide down ſhall be eſteemed as the Potters clay, <hi>Cor.</hi> 1. 1. 18. But it may be ſaid, of theſe at this time as it is ſaid, Ezek. 33. 31. 32. 33. they come unto thee as the people cometh, and they ſit before thee as my people, and they hear thy words but they will not do them, for with their mouthes they ſhew much love, but the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r heart goeth aft<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their covetuouſneſſe, And loe, thou art unto them as a very lovely ſong of on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that hath<g ref="char:punc">▪</g> plea<g ref="char:EOLhyphen"/>ſant voice, and can play well on an inſtrument, for they heare thy words, but they will not do them: but when this cometh to paſſe, loe it will come, then ſhall they know that a Pro<g ref="char:EOLhyphen"/>phet hath been amongſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem</p>
+            <p>Thus what I would have then ſpoken, I have written and committed to publike view and ſenſure of all being thereunto conſtrained, neceſſity being layd upon me, deſiring the Reader to receive <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t as favorably as it was truly intended for the glory of God, and the ex<g ref="char:EOLhyphen"/>altation of the Goſpel of King Ieſus.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
